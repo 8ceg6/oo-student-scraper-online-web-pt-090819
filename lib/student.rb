@@ -11,7 +11,7 @@ class Student
       binding.pry
   end
 
-  def new({}) 
+  def new{}
       
   end 
   def self.create_from_collection(students_array)
