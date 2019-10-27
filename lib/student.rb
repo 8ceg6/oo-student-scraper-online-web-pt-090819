@@ -11,7 +11,7 @@ class Student
       
   end
 
-  def new(hash = {k,v})
+  def new( = {k,v})
     
       
   end 
