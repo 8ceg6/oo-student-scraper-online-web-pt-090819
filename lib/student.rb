@@ -11,7 +11,7 @@ class Student
       
   end
 
-  def new
+  def new(attributes_hash = {})
      
   end 
   def self.create_from_collection(students_array)
