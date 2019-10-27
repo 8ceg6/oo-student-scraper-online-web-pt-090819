@@ -11,7 +11,7 @@ class Student
       
   end
 
-  def new( = {k,v})
+  def new(k:,v:)
     
       
   end 
