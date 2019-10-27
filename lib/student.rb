@@ -11,8 +11,8 @@ class Student
       
   end
 
-  def new{k,v}
-      student.new = {k,v}
+  def new
+     
   end 
   def self.create_from_collection(students_array)
     
